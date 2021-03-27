@@ -1,8 +1,7 @@
 # DesafioMod2
 
 
-## Dicionário de Arquivos 
-
+## Dicionário de Arquivos com respectivos links.
 
 
 - [**desafio2sql.ipynb**](desafio2sql.ipynb) - Python + MySQL
